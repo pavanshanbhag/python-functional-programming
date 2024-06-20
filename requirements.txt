@@ -1,0 +1,12 @@
+# Core modules (mandatory)
+jupyterlab>=4.2.0
+
+# Formatter and linter
+black[jupyter]
+mypy
+flake8
+
+# Functional programming packages
+toolz
+returns
+oslash
